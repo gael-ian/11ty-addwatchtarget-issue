@@ -1,0 +1,6 @@
+
+# Build directory
+_site/
+
+# Yarn
+node_modules/
